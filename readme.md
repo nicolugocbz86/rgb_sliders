@@ -1,0 +1,1 @@
+RGB Sliders: Cambia el backgroundColor del body, corriendo la posicion del los sliders, cada sliders representa a un elemento de la sintesis aditiva (RGB)
